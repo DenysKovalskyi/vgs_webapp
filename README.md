@@ -1,1 +1,1 @@
-# vgs_webapp
+# simple_app_test_vgs
